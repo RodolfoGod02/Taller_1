@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:navy;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+}
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+}
+nav a:hover {
+    background-color:green;
+}
+section {
+    padding: 20px;
+}
+.game {
+    margin: 10px;
+    padding: 10px;
+    background-color:blanchedalmond;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
